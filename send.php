@@ -20,5 +20,4 @@ $message = "<p>Новый заказ</p>
 
 mail( "shisuru@ukr.net", "Новый заказ",
     $message, $headers );
-  header( "Location: https://sh1suru.github.io/Chill_way/index3.html" );
 ?>
