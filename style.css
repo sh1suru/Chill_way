@@ -1,39 +1,5 @@
-.form
+*
 {
-	width: 470px;
-	margin: 0 auto;
-	padding: 15px;
-}
-
-.form ul li
-{
-	list-style: none;
-	padding: 3px 0;
-}
-
-.form span
-{
-	color: #fff;
-	font: 16px Tahoma;
-}
-
-.form h1
-{
-	font: 24px Tahoma;
-	color: #eee;
-	text-align: center;
-}
-
-.form p
-{
-	font: 16px Tahoma;
-	color: #fff;
-	text-align: center;
-}
-
-#page 
-{
-	width:100%;
-	height:auto;
-	background:#20588c
+	margin: 0;
+	padding: 0;
 }
