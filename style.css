@@ -6,19 +6,19 @@
 
 body
 {
-	background: url(images/tokio-holidays.jpg);
+	min-height: 100vh;
+	background: url(images/background.jpg) no-repeat;
 }
 
-
-
-
-
-
-
-
-
-
-
+.header
+{
+	font-family: "Vladimir", sans-serif;
+	font-size: 100px;
+	text-align: center;
+	padding-right: 100px;
+	color: #ff009c;
+	text-shadow: 2px 4.5px 0 #00ffe4, 9px 10px 0 #000;
+}
 
 
 
@@ -49,6 +49,7 @@ aside a
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: 1.5em;
+	font-family: 'Rubik Wet Paint', cursive;
 	letter-spacing: 0.1em;
 	font-weight: 400;
 	padding: 10px 30px;
@@ -163,7 +164,7 @@ main
 {
 	width: 1000px;
 	height: 500px;
-	background: gray;
+	/* background: gray; */
 	opacity: 0.6;
 	float: right;
 	margin: 0 70px 0px 0;
