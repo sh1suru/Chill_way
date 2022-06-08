@@ -15,7 +15,7 @@ body
 	font-family: "Vladimir", sans-serif;
 	font-size: 100px;
 	text-align: center;
-	padding-right: 100px;
+	padding-right: 50px;
 	color: #ff009c;
 	text-shadow: 2px 4.5px 0 #00ffe4, 9px 10px 0 #000;
 }
@@ -162,17 +162,28 @@ aside a:hover i::after
 
 main
 {
-	width: 1000px;
-	height: 500px;
+	width: 1380px;
+	height: 750px;
 	/* background: gray; */
-	opacity: 0.6;
 	float: right;
-	margin: 0 70px 0px 0;
+	margin: 9px 46px 0px 0;
+	flex-wrap: wrap;
+
+}
+
+main img
+{
+	width: 350px;
+	height: 350px;
+	margin: 10px 150px 10px 10px;
+	border: 4px solid white;
+	
+	
 }
 
 footer
 {
-	margin-top: 218px;
+	margin-top: 16px;
 	background: black;
 	width: 100%;
 	height: 50px;
