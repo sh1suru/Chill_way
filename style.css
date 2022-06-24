@@ -290,8 +290,9 @@ span
 
 	main img 
 	{
-		width: 171px;
-    	height: 171px;
+		width: 100px;
+    	height: 100px;
+		margin: 10px 10px 10px 10px;
 	}
 
 	aside a 
