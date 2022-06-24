@@ -292,7 +292,8 @@ span
 	{
 		width: 130px;
 		height: 130px;
-		margin: 46px 43px -34px -36px;
+		/* margin: 46px 43px -34px -36px; */
+		margin: 11% 11% -6% -10%;
 	}
 
 	.show {
